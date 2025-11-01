@@ -21,7 +21,7 @@ class TestLetterGrade(unittest.TestCase):
 
     def test_grade_F(self):
         self.assertEqual(letter_grade(45), "F")
-        print("You got a F")
+        print("You got an F")
 
 
 if __name__ == '__main__':
