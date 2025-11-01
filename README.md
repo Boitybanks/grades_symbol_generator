@@ -1,0 +1,7 @@
+- Converts numeric marks to letter grades:
+- A: 80–100
+- B: 70–79
+- C: 60–69
+- D: 50–59
+- F: Below 50
+- Includes unit tests to ensure accuracy
